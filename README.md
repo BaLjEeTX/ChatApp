@@ -32,5 +32,5 @@ A modern, real-time chat application built using **React Native** and **Firebase
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/BaLjEeTX/ChatApp.git
    cd chat-app
